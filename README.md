@@ -2,6 +2,7 @@
 # 21-Day C Programming Language Learning Challenge
 
 ![C++](./cpp banner.jpg)
+
 Welcome to my 21-day learning challenge repository, where I embark on a journey to explore the fundamentals and advanced concepts of the C programming language. This challenge is designed to enhance my understanding of C and strengthen my programming skills over a three-week period.
 
 ## Introduction
