@@ -1,2 +1,2 @@
 ### not started yet ❌ 
-- It will uploaded on 10-01-24
+- It will uploaded on 10-01-24 .
