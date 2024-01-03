@@ -32,68 +32,67 @@ Provide a daily log of your progress. Include details such as the topics covered
 
 ### Day 1: Variables and Data Types
 - Explore the main data types in C++ and understand how to declare and initialize variables of these types.
-- Code: [Link to code]
+- Code: [Day 1/notes.md]
 ### Day 2: Input/Output (I/O)
 - Write a C++ program that takes two numbers as input and outputs their sum.
-- - Code: [Link to code]
+- - Code: [Day 2/notes.md]
 ### Day 3: Conditional Statements
 - Understand the practical differences between 'if', 'else if', and 'else' statements.
-- - Code: [Link to code]
+- - Code: [Day 3/notes.md]
 ### Day 4: Loops
 - Create a C++ program that uses a 'for' loop to print the first 10 even numbers.
-- - Code: [Link to code]
+- - Code: [Day 4/notes.md]
 ### Day 5: Functions
 - Define a function in C++ that calculates the factorial of a given number.
-- - Code: [Link to code]
+- - Code: [Day 5/notes.md]
 ### Day 6: Arrays
 - Illustrate the declaration and initialization of an integer array. Access and print its elements.
-- - Code: [Link to code]
+- - Code: [Day 6/notes.md]
 ### Day 7: Pointers
 - Explore the purpose of pointers and provide an example of how pointers can be used in C++.
-- - Code: [Link to code]
+- - Code: [Day 7/notes.md]
 ### Day 8: Strings
 - Concatenate two strings in C++ and understand the difference between C-style strings and C++ strings.
-- - Code: [Link to code]
+- - Code: [Day 8/notes.md]
 ### Day 9: Structures
 Create a structure representing a student with attributes like name, age, and grade.
-- - Code: [Link to code]
+- - Code: [Day 9/notes.md]
 ### Day 10: Classes and Objects
 - Define a class 'Rectangle' with attributes length and width. Create an object and calculate its area.
-- - Code: [Link to code]
+- - Code: [Day 10/notes.md]
 ### Day 11: Inheritance
 - Understand the concept of inheritance in C++ with an example involving a base class and a derived class.
-- - Code: [Link to code]
+- - Code: [Day 11/notes.md]
 ### Day 12: Polymorphism
 - Demonstrate both compile-time and runtime polymorphism in C++.
-- - Code: [Link to code]
+- - Code: [Day 12/notes.md]
 ### Day 13: File Handling
 - Write a program to read data from a file and display it on the console.
-- - Code: [Link to code]
+- - Code: [Day 13/notes.md]
 ### Day 14: Exception Handling
 - Explore how exception handling contributes to robust code. Provide an example using try, catch, and throw.
-- - Code: [Link to code]
+- - Code: [Day 14/notes.md]
 ### Day 15: Templates
 - Define a template function that swaps the values of two variables. Understand how to use this template with different data types.
-- - Code: [Link to code]
+- - Code: [Day 15/notes.md]
 ### Day 16: STL (Standard Template Library)
 - Use a vector from the STL to store and display a list of names.
-- - Code: [Link to code]
+- - Code: [Day 16/notes.md]
 ### Day 17: Iterators
 - Understand the role of iterators in C++ with respect to STL containers. Provide an example.
-- - Code: [Link to code]
+- - Code: [Day 17/notes.md]
 ### Day 18: Smart Pointers
 - Compare unique_ptr and shared_ptr. Understand when to use one over the other.
-- - Code: [Link to code]
+- - Code: [Day 18/notes.md]
 ### Day 19: Lambda Expressions
 - Write a lambda expression to find the square of a number.
-- Code: [Link to code]
+- Code: [Day 19/notes.md]
 ### Day 20: Concurrency
 - Briefly describe the concept of concurrency in C++. Provide an example using threads.
-- Code: [Link to code]
+- Code: [Day 20/notes.md]
 ### Day 21: Standard C++ Libraries
 - Explain the purpose of the iostream, cmath, and algorithm headers in C++.
-
-- Code: [Link to code]
+- Code: [Day 21/notes.md]
 
 Feel free to explore, contribute, or follow along on this 21-day C++ learning journey. 🚀💻
 
