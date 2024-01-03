@@ -32,7 +32,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 
 ### Day 1: Variables and Data Types
 - Explore the main data types in C++ and understand how to declare and initialize variables of these types.
-- [code](https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%201) not started yet
+- [code](https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%201) not started yet ❌
 ### Day 2: Input/Output (I/O)
 - Write a C++ program that takes two numbers as input and outputs their sum.
 - [code](https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%202) not started yet ❌
