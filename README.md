@@ -32,67 +32,67 @@ Provide a daily log of your progress. Include details such as the topics covered
 
 ### Day 1: Variables and Data Types
 - Explore the main data types in C++ and understand how to declare and initialize variables of these types.
-- Code: [Day 1/notes.md]
+- Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%201]
 ### Day 2: Input/Output (I/O)
 - Write a C++ program that takes two numbers as input and outputs their sum.
-- - Code: [Day 2/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%202]
 ### Day 3: Conditional Statements
 - Understand the practical differences between 'if', 'else if', and 'else' statements.
-- - Code: [Day 3/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%203]
 ### Day 4: Loops
 - Create a C++ program that uses a 'for' loop to print the first 10 even numbers.
-- - Code: [Day 4/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%204]
 ### Day 5: Functions
 - Define a function in C++ that calculates the factorial of a given number.
-- - Code: [Day 5/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%205]
 ### Day 6: Arrays
 - Illustrate the declaration and initialization of an integer array. Access and print its elements.
-- - Code: [Day 6/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%206]
 ### Day 7: Pointers
 - Explore the purpose of pointers and provide an example of how pointers can be used in C++.
-- - Code: [Day 7/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%207]
 ### Day 8: Strings
 - Concatenate two strings in C++ and understand the difference between C-style strings and C++ strings.
-- - Code: [Day 8/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%208]
 ### Day 9: Structures
 Create a structure representing a student with attributes like name, age, and grade.
-- - Code: [Day 9/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%209]
 ### Day 10: Classes and Objects
 - Define a class 'Rectangle' with attributes length and width. Create an object and calculate its area.
-- - Code: [Day 10/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%210]
 ### Day 11: Inheritance
 - Understand the concept of inheritance in C++ with an example involving a base class and a derived class.
-- - Code: [Day 11/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%211]
 ### Day 12: Polymorphism
 - Demonstrate both compile-time and runtime polymorphism in C++.
-- - Code: [Day 12/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%212]
 ### Day 13: File Handling
 - Write a program to read data from a file and display it on the console.
-- - Code: [Day 13/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%213]
 ### Day 14: Exception Handling
 - Explore how exception handling contributes to robust code. Provide an example using try, catch, and throw.
-- - Code: [Day 14/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%214]
 ### Day 15: Templates
 - Define a template function that swaps the values of two variables. Understand how to use this template with different data types.
-- - Code: [Day 15/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%215]
 ### Day 16: STL (Standard Template Library)
 - Use a vector from the STL to store and display a list of names.
-- - Code: [Day 16/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%216]
 ### Day 17: Iterators
 - Understand the role of iterators in C++ with respect to STL containers. Provide an example.
-- - Code: [Day 17/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%217]
 ### Day 18: Smart Pointers
 - Compare unique_ptr and shared_ptr. Understand when to use one over the other.
-- - Code: [Day 18/notes.md]
+- - Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%218]
 ### Day 19: Lambda Expressions
 - Write a lambda expression to find the square of a number.
-- Code: [Day 19/notes.md]
+- Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%219]
 ### Day 20: Concurrency
 - Briefly describe the concept of concurrency in C++. Provide an example using threads.
-- Code: [Day 20/notes.md]
+- Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%220]
 ### Day 21: Standard C++ Libraries
 - Explain the purpose of the iostream, cmath, and algorithm headers in C++.
-- Code: [Day 21/notes.md]
+- Code: [https://github.com/Xensen008/21_days_cpp_series/tree/0df8f36cfdf943038657bb55dee36e2f740d9982/Day%221]
 
 Feel free to explore, contribute, or follow along on this 21-day C++ learning journey. 🚀💻
 
