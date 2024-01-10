@@ -1,42 +1,34 @@
+// 1. Hello, World!
+
 #include <iostream>
-#include <string>
 
 int main() {
-    // Declare variables
-    int currentYear = 2024;
-    int age;
-    std::string name;
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 
-    // Get user input
-    std::cout << "Enter your name: ";
-    std::getline(std::cin, name);
 
-    std::cout << "Enter your age: ";
-    std::cin >> age;
+// 2. Variables and Arithmetic
+#include <iostream>
+int main() {
+    // Declare and initialize variables
+    int num1 = 10;
+    int num2 = 5;
 
-    // Calculate birth year
-    int birthYear = currentYear - age;
+    // Perform arithmetic operations
+    int sum = num1 + num2;
+    int difference = num1 - num2;
+    int product = num1 * num2;
+    float quotient = static_cast<float>(num1) / num2;
 
-    // Display personalized message
-    std::cout << "\nHello, " << name << "!\n";
-    std::cout << "You were born in the year " << birthYear << ".\n";
+    // Display results
+    std::cout << "Sum: " << sum << std::endl;
+    std::cout << "Difference: " << difference << std::endl;
+    std::cout << "Product: " << product << std::endl;
+    std::cout << "Quotient: " << quotient << std::endl;
 
     return 0;
 }
 
 
-// Explanation:
 
-// 1.int currentYear = 2024;: Declares and initializes a variable currentYear with the current year.
-
-// 2.int age;: Declares a variable age to store the user's age.
-
-// 3.std::string name;: Declares a string variable name to store the user's name.
-
-// 4.std::getline(std::cin, name);: Reads a line of text from the standard input (keyboard) and stores it in the name variable.
-
-// 5.std::cin >> age;: Reads an integer from the standard input and stores it in the age variable.
-
-// 6.int birthYear = currentYear - age;: Calculates the birth year based on the user's age.
-
-// 7.The program then displays a personalized message using the user's name and calculated birth year.
