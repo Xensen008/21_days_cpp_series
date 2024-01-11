@@ -37,7 +37,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%201/notes.md) Completed ✔ (10-01-2024)
 ### Day 2: Input/Output (I/O)
 - Write a C++ program that takes two numbers as input and outputs their sum.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%202/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%202/notes.md) Completed ✔ (11-01-2024)
 ### Day 3: Conditional Statements
 - Understand the practical differences between 'if', 'else if', and 'else' statements.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) not started yet ❌
