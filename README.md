@@ -40,7 +40,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%202/notes.md) Completed ✔ (11-01-2024)
 ### Day 3: Conditional Statements
 - Understand the practical differences between 'if', 'else if', and 'else' statements.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) Completed ✔ (12-01-2024)
 ### Day 4: Loops
 - Create a C++ program that uses a 'for' loop to print the first 10 even numbers.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%204/notes.md) not started yet ❌
