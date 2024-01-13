@@ -43,7 +43,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) Completed ✔ (12-01-2024)
 ### Day 4: Loops
 - Create a C++ program that uses a 'for' loop to print the first 10 even numbers.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%204/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%204/notes.md) Completed ✔ (13-01-2024)
 ### Day 5: Functions
 - Define a function in C++ that calculates the factorial of a given number.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%205/notes.md) not started yet ❌
