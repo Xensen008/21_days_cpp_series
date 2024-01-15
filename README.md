@@ -34,22 +34,22 @@ Provide a daily log of your progress. Include details such as the topics covered
 
 ### Day 1: Variables and Data Types
 - Explore the main data types in C++ and understand how to declare and initialize variables of these types.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%201/notes.md) Completed ✔ (10-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%201/notes.md) Completed ✅ (10-01-2024)
 ### Day 2: Input/Output (I/O)
 - Write a C++ program that takes two numbers as input and outputs their sum.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%202/notes.md) Completed ✔ (11-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%202/notes.md) Completed ✅ (11-01-2024)
 ### Day 3: Conditional Statements
 - Understand the practical differences between 'if', 'else if', and 'else' statements.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) Completed ✔ (12-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%203/notes.md) Completed ✅ (12-01-2024)
 ### Day 4: Loops
 - All about loops in c++
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%204/notes.md) Completed ✔ (13-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%204/notes.md) Completed ✅ (13-01-2024)
 ### Day 5: Functions
 - Define a function in C++ that calculates the factorial of a given number.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%205/notes.md) Completed ✔ (14-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%205/notes.md) Completed ✅ (14-01-2024)
 ### Day 6: Arrays
 - Illustrate the declaration and initialization of an integer array. Access and print its elements.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%206/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%206/notes.md) Completed ✅ (15-01-2024)
 ### Day 7: Pointers
 - Explore the purpose of pointers and provide an example of how pointers can be used in C++.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%207/notes.md) not started yet ❌
