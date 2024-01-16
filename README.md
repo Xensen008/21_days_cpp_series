@@ -52,7 +52,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%206/notes.md) Completed ✅ (15-01-2024)
 ### Day 7: Pointers
 - Explore the purpose of pointers and provide an example of how pointers can be used in C++.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%207/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%207/notes.md) Completed ✅ (16-01-2024)
 ### Day 8: Strings
 - Concatenate two strings in C++ and understand the difference between C-style strings and C++ strings.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%208/notes.md) not started yet ❌
