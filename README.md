@@ -58,7 +58,7 @@ Provide a daily log of your progress. Include details such as the topics covered
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%208/notes.md) Completed ✅ (17-01-2024)
 ### Day 9: Structures
 Create a structure representing a student with attributes like name, age, and grade.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%209/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%209/notes.md) Completed ✅ (18-01-2024)
 ### Day 10: Classes and Objects
 - Define a class 'Rectangle' with attributes length and width. Create an object and calculate its area.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%210/notes.md) not started yet ❌
