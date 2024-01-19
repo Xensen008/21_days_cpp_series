@@ -61,40 +61,40 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%209/notes.md) Completed ✅ (18-01-2024)
 ### Day 10: Classes and Objects
 - Define a class 'Rectangle' with attributes length and width. Create an object and calculate its area.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%210/notes.md) Completed ✅ (19-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2010/notes.md) Completed ✅ (19-01-2024)
 ### Day 11: Inheritance
 - Understand the concept of inheritance in C++ with an example involving a base class and a derived class.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%211/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2011/notes.md) not started yet ❌
 ### Day 12: Polymorphism
 - Demonstrate both compile-time and runtime polymorphism in C++.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%212/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2012/notes.md) not started yet ❌
 ### Day 13: File Handling
 - Write a program to read data from a file and display it on the console.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%213/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2013/notes.md) not started yet ❌
 ### Day 14: Exception Handling
 - Explore how exception handling contributes to robust code. Provide an example using try, catch, and throw.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%214/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2014/notes.md) not started yet ❌
 ### Day 15: Templates
 - Define a template function that swaps the values of two variables. Understand how to use this template with different data types.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%215/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2015/notes.md) not started yet ❌
 ### Day 16: STL (Standard Template Library)
 - Use a vector from the STL to store and display a list of names.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%216/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2016/notes.md) not started yet ❌
 ### Day 17: Iterators
 - Understand the role of iterators in C++ with respect to STL containers. Provide an example.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%217/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2017/notes.md) not started yet ❌
 ### Day 18: Smart Pointers
 - Compare unique_ptr and shared_ptr. Understand when to use one over the other.
-- - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%218/notes.md) not started yet ❌
+- - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2018/notes.md) not started yet ❌
 ### Day 19: Lambda Expressions
 - Write a lambda expression to find the square of a number.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%219/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2019/notes.md) not started yet ❌
 ### Day 20: Concurrency
 - Briefly describe the concept of concurrency in C++. Provide an example using threads.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%220/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2020/notes.md) not started yet ❌
 ### Day 21: Standard C++ Libraries
 - Explain the purpose of the iostream, cmath, and algorithm headers in C++.
-- [Code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%221/notes.md) not started yet ❌
+- [Code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2021/notes.md) not started yet ❌
 
 Feel free to explore, contribute, or follow along on this 21-day C++ learning journey. 🚀💻
 
