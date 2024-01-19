@@ -61,7 +61,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%209/notes.md) Completed ✅ (18-01-2024)
 ### Day 10: Classes and Objects
 - Define a class 'Rectangle' with attributes length and width. Create an object and calculate its area.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%210/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%210/notes.md) Completed ✅ (19-01-2024)
 ### Day 11: Inheritance
 - Understand the concept of inheritance in C++ with an example involving a base class and a derived class.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%211/notes.md) not started yet ❌
