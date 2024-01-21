@@ -67,7 +67,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2011/notes.md) Completed ✅ (20-01-2024)
 ### Day 12: Polymorphism
 - Demonstrate both compile-time and runtime polymorphism in C++.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2012/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2012/notes.md) Completed ✅ (21-01-2024)
 ### Day 13: File Handling
 - Write a program to read data from a file and display it on the console.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2013/notes.md) not started yet ❌
