@@ -73,7 +73,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2013/notes.md) Completed ✅ (22-01-2024)
 ### Day 14: Exception Handling
 - Explore how exception handling contributes to robust code. Provide an example using try, catch, and throw.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2014/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2014/notes.md) Completed ✅ (23-01-2024)
 ### Day 15: Templates
 - Define a template function that swaps the values of two variables. Understand how to use this template with different data types.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2015/notes.md) not started yet ❌
