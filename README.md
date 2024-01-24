@@ -76,7 +76,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2014/notes.md) Completed ✅ (23-01-2024)
 ### Day 15: Templates
 - Define a template function that swaps the values of two variables. Understand how to use this template with different data types.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2015/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2015/notes.md) Completed ✅ (24-01-2024)
 ### Day 16: STL (Standard Template Library)
 - Use a vector from the STL to store and display a list of names.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2016/notes.md) not started yet ❌
