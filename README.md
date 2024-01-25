@@ -79,7 +79,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2015/notes.md) Completed ✅ (24-01-2024)
 ### Day 16: STL (Standard Template Library)
 - Use a vector from the STL to store and display a list of names.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2016/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2016/notes.md) Completed ✅ (25-01-2024)
 ### Day 17: Iterators
 - Understand the role of iterators in C++ with respect to STL containers. Provide an example.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2017/notes.md) not started yet ❌
