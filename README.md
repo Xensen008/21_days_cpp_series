@@ -82,10 +82,10 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2016/notes.md) Completed ✅ (25-01-2024)
 ### Day 17: Iterators
 - Understand the role of iterators in C++ with respect to STL containers. Provide an example.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2017/notes.md) Completed ✅ (27-01-2024)
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2017/notes.md) Completed ✅ (26-01-2024)
 ### Day 18: Smart Pointers
 - Compare unique_ptr and shared_ptr. Understand when to use one over the other.
-- - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2018/notes.md) not started yet ❌
+- - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2018/notes.md) Completed ✅ (27-01-2024)
 ### Day 19: Lambda Expressions
 - Write a lambda expression to find the square of a number.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2019/notes.md) not started yet ❌
