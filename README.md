@@ -88,7 +88,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2018/notes.md) Completed ✅ (27-01-2024)
 ### Day 19: Lambda Expressions
 - Write a lambda expression to find the square of a number.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2019/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2019/notes.md) Completed ✅ (28-01-2024)
 ### Day 20: Concurrency
 - Briefly describe the concept of concurrency in C++. Provide an example using threads.
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2020/notes.md) not started yet ❌
