@@ -91,7 +91,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2019/notes.md) Completed ✅ (28-01-2024)
 ### Day 20: Concurrency
 - Briefly describe the concept of concurrency in C++. Provide an example using threads.
-- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2020/notes.md) not started yet ❌
+- [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2020/notes.md)  Completed ✅ (29-01-2024)
 ### Day 21: Standard C++ Libraries
 - Explain the purpose of the iostream, cmath, and algorithm headers in C++.
 - [Code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2021/notes.md) not started yet ❌
