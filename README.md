@@ -94,7 +94,7 @@ Create a structure representing a student with attributes like name, age, and gr
 - [code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2020/notes.md)  Completed ✅ (29-01-2024)
 ### Day 21: Standard C++ Libraries
 - Explain the purpose of the iostream, cmath, and algorithm headers in C++.
-- [Code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2021/notes.md) not started yet ❌
+- [Code](https://github.com/Xensen008/21_days_cpp_series/blob/main/Day%2021/notes.md) Completed ✅ (30-01-2024)
 
 Feel free to explore, contribute, or follow along on this 21-day C++ learning journey. 🚀💻
 
